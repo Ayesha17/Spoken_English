@@ -1,0 +1,28 @@
+<RelativeLayout
+    android:id="@+id/footer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="#fff"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/btn1"
+        android:background="#fff"
+        android:text="@string/name"
+        android:textStyle="normal"
+        android:onClick="work"/>
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:id="@+id/btn2"
+        android:text="@string/about"
+        android:layout_alignParentRight="true"
+android:textStyle="normal"
+        android:onClick="about"/>
+
+</RelativeLayout>
+

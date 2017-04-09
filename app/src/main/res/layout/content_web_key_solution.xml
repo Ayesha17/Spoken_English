@@ -1,0 +1,85 @@
+<RelativeLayout    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary"
+    android:layout_above="@id/footer"
+    android:layout_marginTop="2dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ScrollView
+        android:layout_width="match_parent" android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_marginBottom="45dp"  android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        >
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/webtext">
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/web"
+                android:textStyle="bold|italic"
+                android:paddingBottom="10dp"
+                android:textSize="20sp"
+                android:layout_marginTop="40dp"
+                android:textColor="#000000"/>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/web1"
+                android:textSize="17sp"/>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/service"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/list"
+                />
+        </LinearLayout>
+
+       <LinearLayout
+           android:layout_width="fill_parent"
+           android:orientation="horizontal"
+           android:layout_height="fill_parent"
+           android:layout_below="@id/webtext"
+           android:layout_weight="0.50"
+           android:gravity="center"
+
+           >
+
+           <ImageView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@drawable/fb"
+               android:paddingLeft="20dp"
+               android:onClick="fb"               />
+           <ImageView
+               android:layout_width="72dp"
+               android:layout_height="72dp"
+               android:src="@drawable/link"
+               android:paddingLeft="20dp"
+               android:contentDescription="linkedin"
+               android:onClick="linkedin"     />
+
+       </LinearLayout>
+    </RelativeLayout>
+</ScrollView>
+
+    <include layout="@layout/activity_footer" />
+</RelativeLayout>

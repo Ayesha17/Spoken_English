@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_array_expandable_level_one">
+        <item>A</item>      <item>B</item> <item>C</item>      <item>D</item>   <item>E</item>      <item>F</item>    <item>G</item>      <item>H</item>
+        <item>I</item>      <item>J</item>   <item>K</item>      <item>L</item>     <item>M</item>     <item>N</item>      <item>O</item>      <item>P</item>      <item>Q</item>      <item>R</item>        <item>S</item>      <item>T</item> <item>U</item>     <item>V</item><item>W</item>       <item>Y</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_one_child">
+        <item>accent  vs ascent vs assent</item> <item>accept vs except</item>     <item>advice vs advise</item>        <item>adverse vs averse</item>        <item>aid vs aide</item>        <item> altogether vs all together</item>
+        <item>altar vs alter</item>        <item>amend vs emend</item>        <item>artist vs artiste</item>      <item>astrology vs astronomy</item>
+        <item>a while vs awhile</item>
+    </string-array>
+
+    <string-array name="items_array_expandable_level_one2">
+        <item>accent : (n)     distinctive manner of oral expression.
+    "\n"ascent : (n)  A movement upward.
+    "\n"assent : (v)  agreement with a statement or proposal to do something.</item>
+        <item>accept : (v)     means to receive willingly."\n"except : (prep)     means apart from or excluding.</item>
+        <item>advice : (n) Opinion about what could or should be done about a situation or problem."\n"advise : (v)To offer advice to, to give information/advice.</item>
+        <item>adverse : (adj) contrary to one\"s interests or welfare.
+            "\n"averse: (adj) strongly opposed (usually followed by (to))</item>
+        <item>aid : (v)     to give help or assistance, be of service, assistance."\n"aide : (n)    an assistant.</item>
+   <item>altogether : (adv) to a complete degree or to the full or entire extent
+            "\n"all together : (adv) in each other\"s company.</item>
+        <item>altar : (n) a table or flat surface where religious rituals take place.
+            "\n"alter : (v) cause to change; make different; cause a transformation.</item>
+    <item>amend : (v) make changes to, to improve or make better
+            "\n"emend : (v) to make corrections to (not always for the better) (rarely used).</item>
+        <item>artist : (n) a person whose creative work shows sensitivity and imagination
+            "\n"artiste : (n) a public performer (a dancer or singer).</item>
+        <item>astrology : (n) the study of the movements and positions of the sun, moon, planets and stars, and the skill of describing the expected effect
+            that some people believe these have on the character and behaviour of humans.
+		"\n"astronomy : (n) the scientific study of the universe and of objects which exist naturally in space, such as the moon, the sun, planets and stars.</item>
+        <item>a while :  a length of time."\n"awhile : (adv) for a short time.</item>
+    </string-array>
+
+
+    <string-array name="items_array_expandable_level_one_two_child1">
+        <item>ball vs bawl</item>
+        <item>bloc vs block</item>
+        <item>blue vs blew</item>
+        <item>board vs bored</item>
+        <item>bold vs bald</item>
+        <item>borne vs born</item>
+        <item>breath vs breathe</item>
+        <item>breech vs breach</item>
+        <item>bridle vs bridal</item>
+        <item>bring vs take</item>
+    </string-array>
+
+    <string-array name="items_array_expandable_level_two2">
+        <item>ball : (n) round object that is hit, thrown or kicked in games.
+            "\n"bawl : (v) shout loudly and without restraint, to cry.</item>
+        <item> bloc : (n) a group of countries in special alliance.
+            "\n"block : (n) a solid piece of something (usually having flat rectangular sides).</item>
+        <item>blue : (n) of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky.
+           "\n"blew : (v) Exhaled hard.</item>
+        <item>board : (n) a committee having supervisory powers or a flat piece of wood.
+          "\n"bored : (v) a feeling of lack of interes.</item>
+        <item>bold : (adj) someone who is fearless and courageous.
+            "\n"bald : (adj) it is used to describe someone (usually a man) with no hair on their head.</item>
+        <item> borne : (v) carried or transported by.
+            "\n"born : (v) brought into existence.</item>
+        <item> breath : (n) air that is taken in and expelled during breathing.
+            "\n"breathe : (v) draw air into, and expel out of, the lungs.</item>
+        <item>breech : (n) opening in the rear of the barrel of a gun where bullets can be loaded.
+      "\n"breach : (n) act in disregard of laws, rules, contracts, or promises.</item>
+        <item>bridle : (n) headgear for a horse; includes a headstall and bit and reins to give the rider or driver control.
+         "\n"bridal : (n) a marriage ceremony; a wedding.</item>
+        <item>bring : (v) carry or transport something or somebody with oneself to another place.
+          "\n"take : (v) carry out something or someone from one place to another or to do.</item>
+</string-array>
+
+    <string-array name="items_array_expandable_level_one_two_child2">
+        <item>can vs ken</item>
+        <item>capital vs capitol</item>
+        <item>censor vs censure</item>
+        <item>certain vs curtain</item>
+        <item>cleanup vs clean up</item>
+        <item>click vs clique</item>
+        <item>collage vs college</item>
+        <item> compare vs compere</item>
+        <item>complement vs compliment</item>
+        <item>confuse vs confess</item>
+    </string-array>
+
+    <string-array name="items_array_expandable_level_two3">
+ <item>can : (v) able to.
+            "\n"ken : (n) range of what one can know or understand (rarely used).</item>
+ <item>capital : (n) a town or city that is the official seat of government in a political entity.
+            "\n"capitol : (n) it is used to describe a building in which a US state government meets.</item>
+ <item>censor : () someone who censures or condemns.
+            "\n"censure : () harsh criticism or disapproval.</item>
+ <item>certain : (adj) it is used when something is impossible to avoid or extremely likely to happen.
+            "\n"curtain : (n) it is used to describe a piece of material that hangs across a window or opening to make a room or part of a room dark or private.</item>
+ <item>cleanup : (n) a very large profit.
+            "\n"clean up : (v) put (things or places) in order.</item>
+ <item>click : (n) a short light metallic sound, a brief, sharp, nonresonant sound.
+            "\n"clique : (n) an exclusive circle of people with a common purpose,  a small, exclusive group of friends or associates. </item>
+ <item>collage : (n) an artistic composition of materials and objects pasted over a surface, often with unifying lines and color. The art of creating such compositions.
+         "\n"college : (n) educational institution.</item>
+ <item>compare : (n) to consider or describe as similar, equal, or analogous, liken.
+            "\n"compere : (n) the master of ceremonies, as of a television entertainment program or a variety show.</item>
+ <item>complement : (n) it means to make something seem better or more attractive when combined.
+            "\n"compliment : (n) it means a remark that expresses approval, admiration or respect.</item>
+ <item>confuse : (v) to cause to be unable to think with clarity or act with intelligence or understanding.
+            "\n"confess : (v) it is used when someone admits or states that they have committed a crime or are at fault in some way.</item>
+        </string-array>
+
+    <string-array name="items_array_expandable_level_one_two_child3">
+        <item>decent vs descent</item>
+        <item>decision vs division</item>
+        <item>defrost vs melt</item>
+        <item>desperate vs disparate</item>
+        <item>destroy vs destruct</item>
+        <item>discreet vs discrete</item>
+        <item>dose vs doze</item>
+        <item>downside vs underside</item>
+        <item>dress up vs get dressed</item>
+        <item>driving test vs test drive</item>
+    </string-array>
+
+    <string-array name="items_array_expandable_level_two4">
+        <item>decent : (adj) it means socially acceptable or good."\n"descent : (n) it means a movement downwards, or your ancestry.</item>
+        <item>decision : (n) to describe a conclusion or resolution reached after consideration."\n"division : (n) It can describe the action of separating something into parts, or the process of being separated.</item>
+        <item>defrost : (v) to remove ice or frost from."\n"melt : (v) it means to turn from something solid into something soft or liquid.</item>
+        <item>desperate : (adj) it mean extreme or very bad."\n"disparate : (adj) it means different in every way.</item>
+        <item>destroy : (v) means to put an end to the existence of something by damaging or attacking it, or to completely ruin or spoil something.
+           "\n"destruct : (v) but we do not use it much in British English. You might see it with a prefix, such as self-destruct or auto-destruct.</item>
+        <item>discreet : ()  it means to be careful or modest, not to cause embarrassment or attract too much attention, especially by keeping something secret.
+           "\n"discrete : (adj) it means something is distinct and separate or has a clear independent shape or form.</item>
+        <item>dose : (n) means a measured amount of something, especially medicine. As a verb it means to give someone a measured amount of medicine.
+            "\n"doze : (v) means to have a short sleep, especially during the day and "a doze" is a short sleep.</item>
+        <item>downside : (n) the lower side or portion."\n"underside : (n) the side or surface that is underneath; the bottom side.</item>
+        <item>dress up : () It can mean to put on a costume, or to put on your best clothes.
+            "\n"get dressed :  It means to put on clothes.</item>
+        <item>driving test :   (also known as a driving exam) is a procedure designed to test a person\'s ability to drive a motor vehicle.
+            "\n"test drive :  when you drive an automobile to assess it, usually before buying it.</item>
+        </string-array>
+    <string-array name="items_array_expandable_level_one_two_child4">
+        <item>e.g. or i.e</item>
+        <item>effect vs affect</item>
+        <item>enquiry vs inquiry</item>
+        <item>ethic vs ethics</item>
+        <item>every day vs everyday</item>
+        <item>except vs expect</item>
+        <item>execute vs executive</item>
+        <item>expand vs expend</item>
+    </string-array>
+
+
+    <string-array name="items_array_expandable_level_two5">
+        <item>e.g. :  stands for exempli gratia = for example."\n"i.e. :  stands for id est = that is (in explanation).</item>
+        <item>effect : (n) a result, to have an impact on something or someone."\n"affect : (v) to have an influence on or effect a change in</item>
+        <item>enquiry : (v) a search for knowledge ( a variant of \'inquiry\' UK mostly)"\n"inquiry : (v) an examination of facts.</item>
+        <item>ethic : (n) the principles of right and wrong that are accepted by an individual or a social group.
+            "\n"ethics : (n)  motivation based on ideas of right and wrong</item>
+        <item>every day :   it means each day without exception."\n"everyday :  it means ordinary days or routine occasions.</item>
+        <item>except : (prep) with the exclusion of, other than."\n"expect : (v) which we use when we think something is likely to happen, or someone is likely to do or be something in particular.</item>
+        <item>execute : (v) to put into effect.
+           "\n"executive : (n) a person or group having administrative or managerial authority in an organization.</item>
+        <item>expand : (v) to increase the size, volume, quantity, or scope of; enlarge."\n"
+            "\n"expend : (v) it means to use or spend something (especially time, effort or money).</item>
+    </string-array>
+
+    <string-array name="items_array_expandable_level_one_two_child5">
+        <item>faint vs feint</item>
+        <item>fair vs fare</item>
+        <item>fallible vs fallacious</item>
+        <item>farther vs further</item>
+        <item>faze vs phase</item>
+        <item>feet vs feat</item>
+        <item>finally vs finely</item>
+        <item>fined vs find</item>
+        <item>flair vs flare</item>
+        <item>flew vs flu</item>
+        <item>for vs since</item>
+    </string-array>
+
+
+    <string-array name="items_array_expandable_level_two6">
+        <item>faint : (adj) deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc; or to lose consciousness.
+            "\n"feint : (n) deceive by a mock action.</item>
+        <item>fair : (adj) free from favoritism or self-interest or bias or deception; conforming with established standards or rules.
+            "\n"fare : (v) the sum charged for riding in a public conveyance.</item>
+        <item>fallible : (adj) likely to fail or make errors."\n"fallacious : (adj) containing or based on a fallacy or untruth.</item>
+        <item>farther : (adv) expression of physical distance."\n"further : (adj) an expression of figurative, metaphorical distance.</item>
+        <item>faze : (v) disturb the composure of."\n"phase : (n) any distinct time period in a sequence of events.</item>
+        <item>feet : (n) the part of the leg of a human being below the ankle joint."\n"feat : (n) a notable achievement.</item>
+        <item>finally : (adj) after an unspecified period of time or an especially long delay.
+            "\n"finely : (adv) in tiny pieces.</item>
+        <item>fined : (n) issued a ticket or a fine as a penalty."\n"find : (v) come upon, as if by accident; meet with.</item>
+        <item>flair : (n) a natural talent."\n"flare : (v) a shape that spreads outward or a sudden burst of light or a device for producing a bright flame.</item>
+      <item>flew : (v) travel through the air; be airborne (past of fly)."\n"flu : (n) an acute febrile highly contagious viral disease.</item>
+        <item>for :  it is used to indicates a period of time."\n"since :  it is used to indicates a point in time.</item>
+    </string-array>
+
+    <string-array name="items_array_expandable_level_one_two_child6">
+        <item>getaway vs get away</item>
+        <item>good vs well</item>
+        <item>gray vs grey</item>
+        <item>grisly vs grizzly</item>
+         </string-array>
+
+    <string-array name="items_array_expandable_level_one_two7">
+      <item>getaway : (n)  a location for respite, an escape"\n"get away : (v) to escape.</item>
+      <item>good : (adj) being positive or desirable in nature."\n"well : (adj)  in a good or proper manner.</item>
+      <item>gray : (n) US spelling"\n"grey : (n) UK spelling"\n"The colour between black and white can be written gray or grey.</item>
+      <item>grisly : () it means horrible."\n"grizzly : () it is a bear from North America.</item>
+        </string-array>
+
+    <string-array name="items_array_expandable_level_one_two_child7">
+        <item>hard vs hardly</item>
+        <item>hear vs listen</item>
+        <item>heroin vs heroine</item>
+        <item>he\'s vs his</item>
+        <item>holiday vs the weekend</item>
+        <item>holy vs holly</item>
+        <item>homework vs housework</item>
+        <item>hope vs wish</item>
+        <item>human vs humane</item>
+        <item> hurdle vs hurtle</item>
+    </string-array>
+
+    <string-array name="items_array_expandable_level_one_two8">
+        <item>hard : (adj) it means solid, industrious, or difficult.
+            "\n"hardly : (adv) it means only just or certainly not.</item>
+        <item> hear : (v) it means to receive or become aware of a sound using your ears."\n"listen : () it means to give attention to someone or something in order to hear them, so you make an effort in order to hear something properly.</item>
+        <item>heroin : (n) it is a powerful illegal drug, obtained from morphine and is extremely addictive."\n"heroine : (n) is a female person who is admired for having done something very brave or having achieved something great. The male equivalent is hero.</item>
+        <item>he\'s :   it is the short form of \"he is\" or \"he has\"."\n"his : (pron) it is used to show something belonging to or connected with a man, boy or male animal that has just been mentioned.</item>
+        <item>holiday : (n) A day on which custom or the law dictates a halting of general business activity to commemorate or celebrate a particular event."\n"\\the weekend : (n) the end of the week, especially the period from Friday evening through Sunday evening.</item>
+        <item>holy : (adj) belonging to, derived from, or associated with a divine power, sacred."\n"holly : (n) a widely distributed evergreen shrub, typically having prickly dark green leaves, small white flowers, and red berries.</item>
+        <item>homework : (n) work, such as schoolwork or piecework, that is done at home."\n"housework : (n) The tasks, such as cleaning and cooking, that are performed in housekeeping.</item>
+        <item>hope : (v) to wish for something with expectation of its fulfillment."\n"wish : (v) it means you want something to happen, or to be true, a desire, longing, or strong inclination for a specific thing. </item>
+        <item>human : (adj) characteristic of humanity"\n"humane : (adj) pertaining to or concerned with the humanities or the quality of having compassion.</item>
+        <item>hurdle : (n) an obstacle that is in the way."\n"hurtle : (v) move with or as if with a rushing sound.</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child8">
+        <item>I vs me</item>
+        <item>illicit vs elicit</item>
+        <item>immunity vs impunity</item>
+        <item>improve vs improvise</item>
+        <item>incite vs insight</item>
+        <item>incredible vs incredulous</item>
+        <item>indiscreet vs indiscrete</item>
+        <item>ingenious vs ingenuous</item>
+        <item>interesting vs curious</item>
+        <item>intrusive vs obtrusive</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two9">
+        <item>I : (pron) the subjective case of me"\n"me : (pron) the objective case of I</item>
+        <item>illicit : (adj) contrary to accepted morality (especially sexual morality) or convention.
+            "\n"elicit : (v) call forth (emotions, feelings, and responses).</item>
+        <item>immunity : (n) the quality or condition of being immune."\n"impunity : (n) exemption from punishment, penalty, or harm.</item>
+        <item>improve : (v) it means to get better."\n"improvise : (v) it means to invent or make something without having planned it.</item>
+        <item>incite : (v) give an incentive for action"\n"insight : (n) clear or deep perception of a situation</item>
+        <item> incredible : (adj) beyond belief or understanding."\n"incredulous : (adj) not disposed or willing to believe; unbelieving.</item>
+        <item>indiscreet : (adj) lacking discretion, injudicious.
+            "\n"indiscrete : (adj) not divided or divisible into parts.</item>
+        <item>ingenious : (adj) showing inventiveness and skill."\n"ingenuous : (adj) characterized by an inability to mask your feelings; not devious.</item>
+        <item>interesting : (adj)  it means it gets your attention because it may be unusual, exciting, or has a lot of ideas.
+            "\n"curious : (adj) eager to learn more.</item>
+        <item>intrusive : (adj) tending to intrude (especially upon privacy)."\n"obtrusive : (adj) undesirably noticeable</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child9">
+        <item>Jewelry vs Jewellery</item>
+        <item></item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two10">
+        <item>Jewelry : (n) American spelling"\n"Jewellery : (n) non-American spelling.</item>
+    <item></item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child10">
+        <item>kerb vs curb</item>
+        <item>kin vs ken</item>
+        <item>knight vs night</item>
+        <item>know vs now</item>
+        <item>knows vs nose</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two11">
+        <item>kerb : () non-american spelling of curb."\n"curb : (n) a concrete border or row of joined stones forming part of a gutter along the edge of a street.</item>
+        <item>kin : (n) related by blood."\n"ken : (n) range of what one can know or understand.</item>
+        <item>knight : (n) originally a person of noble birth trained to arms and chivalry; today in Great Britain a person honored by the sovereign for personal merit.
+            "\n"night : (n) the time after sunset and before sunrise while it is dark outside.</item>
+        <item>know : (v) aware of a fact or a specific piece of information; possess knowledge or information about.
+           "\n"now : (adv) it is used to describe the present time or moment.</item>
+        <item>knows : (v) be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about."\n"nose : (n)  the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals.</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child11">
+        <item>later vs latter</item>
+        <item>lay vs lie</item>
+        <item>lend vs loan</item>
+        <item>lessen vs lesson</item>
+        <item>live vs stay</item>
+        <item>look after vs look for</item>
+        <item>look at vs watch</item>
+        <item>look forward(s) vs look forward to</item>
+        <item>look over vs overlook</item>
+        <item>loose vs lose</item>
+
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two12">
+        <item>later : (adv) It is used to express time, either in the future or after the time you have mentioned.
+            "\n"latter : (adj) it means near or towards the end of something.</item>
+        <item>lay :  It means to put something or someone down (often in a horizontal postion).
+            "\n"lie :  It means to rest in a horizontal position1 or to be located somewhere.</item>
+        <item>lend : (v) bestow a quality on or give something to someone with the expectation of getting it back (often money).
+           "\n"loan : (n) a temporary provision of money (usually at interest) or an object . </item>
+        <item>lessen : (v) decrease in size, extent, or range."\n"lesson : (n) a unit of instruction or something learned by experience.</item>
+        <item>live : (v) if someone lives somewhere they are a permanent resident of that place.
+            "\n"stay : (v) but in this context if you stay somewhere it is temporary.</item>
+        <item>look after :  means to take care of or be in charge of something or someone.
+           "\n"look for :  means to try to find something or someone.</item>
+        <item>look at : (v) something or someone you are interested in the appearance of that thing or person. Generally we look at things that are static.
+            "\n"watch : (v) to look or observe attentively or carefully, be closely observant.</item>
+        <item>look forward(s) : (v) it means you are looking ahead."\n"
+            look forward to  : (phrasal verb) it is used when you feel happy and excited about something that is going to happen.</item>
+        <item>look over : (phrasal verb) quickly examine someone or something."\n"overlook : (v) it means fail to notice or consider it or them.</item>
+        <item>loose : (adj) If something isn\'t fixed properly or it doesn\'t fit, because it\'s too large, it\'s loose."\n"lose : (v) it means to no longer possess something because you do not know where it is, or because it has been taken away from you.</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child12">
+        <item>manor vs manner</item>
+        <item>mantel vs mantle</item>
+        <item>massage vs message</item>
+        <item>marshal vs martial</item>
+        <item>me vs my</item>
+        <item>mite vs might</item>
+        <item>moan vs mourn</item>
+        <item>moral vs morale</item>
+        <item>most vs mostly</item>
+        <item>mute vs moot</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two13">
+        <item>manor : (n) the mansion of a lord or wealthy person, a landed estate."\n"manner : (n) a way of doing something or the way in which a thing is done or happens.</item>
+        <item>mantel : (n) shelf that projects from wall above fireplace
+            "\n"mantle : (n) the cloak as a symbol of authority</item>
+        <item>massage : (v, n) to rub and press someone\'s body with regular repeated movements, in order to relax them or to reduce stiffness or pain in their joints. As a noun it is the activity of rubbing or pressing parts of someone\'s body in order to make them relax or to stop their muscles hurting.
+            "\n"message : () it  is a short piece of information that you give to a person when you cannot speak to them directly.</item>
+        <item>marshal : (n) a federal law officer that carries out the judgments of a court of law; organize by rank and position.
+            "\n"martial : (adj)  befitting a warrior (of persons).</item>
+        <item>me : (obj) to refer to yourself.
+            "\n"my : (possessive adjective)  to refer that something or someone belong to yourself.
+      </item>
+        <item>mite : (n) a slight but appreciable amount or a tiny microscopic insect..
+            "\n"might : (n) expresses possibility.</item>
+        <item>moan : (v) means to make a complaint in an unhappy voice.
+            "\n"mourn : (v)  feel or express great sadness, especially because of someone\'s death.</item>
+        <item>moral : (n, adj) as a noun or an adjective, which is used to describe standards of good or bad character and behaviour. It can also be used to describe a kind of story that tells you how you should or should not behave.
+            "\n"morale : (n) is a noun that describes the amount of confidence felt by a person or group of people, especially when in a dangerous or difficult situation.</item>
+        <item>most :  almost all or the largest part."\n"mostly :  it means generally, mainly, chiefly, usually.</item>
+        <item>mute : (adj) expressed without speech.
+			"\n"moot : (n) of no legal significance (as having been previously decided).</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child13">
+        <item>nauseated vs nauseous</item>
+        <item>noisome vs noisy</item>
+        <item>nun vs none</item>
+        <item>nutritional vs nutritious</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two14">
+        <item>nauseated : (n) feeling nausea; feeling about to vomit.
+            "\n"nauseous : (adj) the state of having nausea or causing nausea.</item>
+        <item>noisome : (adj) having a very bad or offensive smell.
+            "\n"noisy : (adj) full of or characterized by loud and nonmusical sounds.</item>
+        <item>nun : (n) a religious woman or a woman member of a religious order, often bound by poverty, chastity, and obedience.
+            "\n"none : (pron) not at all or in no way.</item>
+        <item>nutritional : (adj) of or relating to or providing nutrition.
+            "\n"nutritious : (adj) of or providing nourishment.</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child14">
+        <item>obsolescent vs obsolete</item>
+        <item>official vs officious</item>
+        <item>of course vs off course</item>
+        <item>of vs off</item>
+        <item>ordinance vs ordnance</item>
+        <item>ought vs aught</item>
+        <item>overrun vs run over</item>
+        <item>overtake vs takeover vs take over</item>
+        <item>overdo vs overdue</item>
+            </string-array>
+    <string-array name="items_array_expandable_level_one_two15">
+        <item>obsolescent : (adj) becoming obsolete.
+            "\n"obsolete : (adj) no longer in use.</item>
+        <item>official : (adj) a worker who holds or is invested with an office.
+            "\n"officious : (adj) intrusive in a meddling or offensive manner.</item>
+        <item>of course :  informal way of saying \'yes\' or to give someone permission to do something.
+            "\n"off course :  used when a vehicle doesn\'t follow a planned, or intended, route.</item>
+        <item>of : (prep) used to show possession or the relationship between two things.
+            "\n"off : (adv) to show when something is away from a certain place or time, or as a preposition of movement.</item>
+        <item>ordinance : (n) an authoritative command or order
+            "\n"ordnance : (n) military materiel, such as weapons, ammunition, combat vehicles, and equipment.</item>
+        <item>ought : (v) expresses an emotional, practical, or other reason for doing something.
+            "\n"aught : (pron) anything whatever.</item>
+        <item>overrun : (v) to seize the positions of and defeat conclusively.
+            "\n"run over : (phrasal verb) to collide with, knock down, and even physically go over someone or something.</item>
+        <item>overtake : (v) It can mean to go beyond something by being better, or if you\'re driving to come from behind another vehicle or a person and move in front of it.
+            "\n"takeover : (n) it is used when one organisation gains control of a company by buying most of its shares.
+            "\n"take over : (phrasal verb) it means to get control of a company by buying most of its shares.
+</item>
+        <item>overdo : (v) do something to an excessive degree.
+            "\n"overdue : (adj) past due; not paid at the scheduled time.</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child15">
+        <item>pair vs pare vs pear</item>
+        <item>palate vs palette</item>
+        <item>pass away vs pass out</item>
+        <item>peak vs peek</item>
+          <item>personal vs personnel</item>
+        <item>pore vs pour</item>
+        <item>practice vs practise</item>
+        <item>precede vs proceed</item>
+        <item>principal vs principle</item>
+        <item>probably vs properly</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two16">
+        <item>pair : (n a set of two similar things considered as a unit.br />
+            "\n"pare : (v decrease gradually or bit by bit.
+            "\n"pear : (n sweet juicy gritty-textured fruit available in many varieties.</item>
+        <item>palate : (n) the upper surface of the mouth that separates the oral and nasal cavities.br />
+            "\n"palette : (n) the range of color characteristic of a particular artist or painting or school of art.</item>
+        <item>pass away : (phrasal verb) is a phrasal verb. It is used when someone dies.
+            "\n"pass out : (phrasal verb) it is used when someone loses consciousness for a short time.</item>
+       <item>peak : (n) the most extreme possible amount or value.br />
+            "\n"peek : (v) a secret look.</item>
+        <item>personal : (adj) of or relating to a particular person.
+            "\n"personnel : (n) the body of persons employed by or active in an organization, business, or service.</item>
+        <item>pore : (v) any tiny hole admitting passage of a liquid (fluid or gas).br />
+            "\n"pour : (v) cause to run.</item>
+        <item>practice : (n) used as noun
+            "\n"practise : (v) used as verb
+            "\n"both have meaning - to do or perform habitually or customarily, make a habit of.</item>
+        <item>precede : (v) to come, exist, or occur before in time.
+            "\n"proceed : (v) to go forward or onward, especially after an interruption, continue.</item>
+        <item>principal : (adj)it means first in order of importance.
+            "\n"principle : (n) a basic truth, law, or assumption, standard of behaviour or rule that explains or controls how something happens or works.</item>
+        <item>probably : (adv) most likely. it used to express a level of certainty that\'s slightly less than 100%.
+            "\n"properly : (adv) it is used to show something has been done in the right way.</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child16">
+        <item>quiet vs quite</item>
+        <item>quell vs quench</item>
+        <item>quiet vs quit</item>
+        <item>quotation vs quote</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two17">
+        <item>quiet : (adj) making no noise, silent.
+            "\n"quite : (adv) to the greatest extent, completely.</item>
+        <item>quell : (v) suppress or crush completely.
+            "\n"quench : (v) satisfy (thirst).</item>
+        <item>quiet : (adj) characterized by an absence or near absence of agitation, sound or activity.
+            "\n"quit : (v) put an end to a state or an activity.</item>
+        <item>quotation : (n) a short note recognizing a source of information or of a quoted passage.
+            "\n"quote : (v) repeat a passage from.</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child17">
+        <item>raise vs rise</item>
+        <item>rain vs reign</item>
+        <item>recourse vs resource</item>
+        <item>regard vs regardless vs regards</item>
+        <item>remainder vs reminder</item>
+        <item>remember vs remind</item>
+        <item>replay vs reply</item>
+        <item>restive vs restless</item>
+        <item>respectfully vs respectively</item>
+        <item>review vs revue</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two18">
+        <item>raise : (v) to move to a higher position; elevate. something else is needed to raise something
+            "\n"rise : (v) something rises by itself.</item>
+        <item>rain : (n) water falling in drops from vapor condensed in the atmosphere.
+            "\n"reign : (n) have sovereign power. </item>
+        <item>recourse : (n) act of turning to for assistance.
+            "\n"resource : (n) available source of wealth; a new or reserve supply that can be drawn upon when needed.</item>
+        <item>regard : (v) usually means to have an opinion about something or someone.
+            "\n"regardless : (adv) in spite of everything, anyway, not being affected by something.
+            "\n"regards :  it is simply a greeting.</item>
+        <item>remainder : (n) something left over after other parts have been taken away.
+            "\n"reminder :  it can be anything that causes you to remember something, it can also be a message or note, or any communciation designed to ensure that you remember something.</item>
+        <item>remember : (v) to recall to the mind; think of again. to be able to bring back a piece of information into your mind, or to keep a piece of information in your memory.
+            "\n"remind : (v) to cause to remember, put in mind. to make someone aware of something they have forgotten or might have forgotten.</item>
+        <item>replay : (v) to play over again.
+            "\n"reply : (v) to give an answer in speech or writing.</item>
+        <item>restive : (adj) being in a tense state.
+            "\n"restless : (adj) lacking rest or worried and uneasy or in constant motion.</item>
+        <item>respectfully : (adj) in a respectful manner.
+            "\n"respectively : (adv) in the order given.</item>
+        <item>review : (v) look at again; examine again
+            "\n"revue : (n) a variety show with topical sketches and songs and dancing and comedians.</item>
+    </string-array>
+
+    <string-array name="items_array_expandable_level_one_two_child18">
+<item>say vs talk vs tell</item>
+<item>scared vs scary</item>
+<item>shortage vs shortness</item>
+<item>so vs such</item>
+<item>some time vs sometime</item>
+<item>some vs any</item>
+<item>sooth vs soothe</item>
+<item>stationary vs stationery</item>
+<item>stick vs sticker</item>
+<item>strange vs stranger</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two19">
+        <item>say : (v) to pronounce words or sounds, to express a thought, opinion, or suggestion, or to state a fact or instruction.
+            "\n"talk : (v) means to actually say words out loud; to speak to someone.
+            "\n"tell : (v) to give a detailed account of, narrate.</item>
+        <item>scared : (adj) it is used to describe a person or maybe an animal that is frightened or worried.
+            "\n"scary : (adj) it is used to describe something or someone that causes fear or terror.</item>
+        <item>shortage : (n) a deficiency in amount; an insufficiency.
+            "\n"shortness : (n) the condition of being short spatially.</item>
+        <item>so :  when used as in front of an adjective or an adverb means very.
+            "\n"such :  when used as a determiner can be used in front of a noun or an adjective and a noun to show extremes, you can\'t use it in front of adverbs.
+</item>
+        <item>some time :  means a period of time
+            "\n"sometime(s) :  indicates a time in the future or the past which is not known or not stated.</item>
+        <item>some : (adj) it is used for an unspecified number or quantity and for positive statements.
+            "\n"any : (adj) for questions and negative statements.</item>
+        <item>sooth : (adj) it means real - true - Soft - smooth.
+            "\n"soothe : (v) to calm or placate,  To ease or relieve from pain.
+</item>
+        <item>stationary : (adj)  not moving. not capable of being moved; fixed.
+            "\n"stationery : (n) is the collective noun for Writing materials and office supplies such as paper, pens, pencils and envelopes.</item>
+        <item>stick : (n) it usually describes a thin piece of wood that has fallen or been cut from a tree.
+            "\n"sticker : (n) it is used to describe an adhesive label or notice, generally printed or illustrated.</item>
+        <item>strange : (adj) it is used to describe something as unusual or surprising in a way that is unsettling or hard to understand.
+            "\n"stranger : (n) it is used to describe a person whom one does not know or with whom one is not familiar.
+</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child19">
+        <item>take care vs take care of</item>
+        <item>team vs teem</item>
+        <item>than vs then</item>
+        <item>that vs which vs who</item>
+        <item>there vs their vs they\'re</item>
+        <item>tide vs tied</item>
+        <item>to vs too vs two</item>
+        <item>trainer vs trainee</item>
+        <item>travel vs trip vs voyage vs journey</item>
+        <item>troop vs troupe</item></string-array>
+    <string-array name="items_array_expandable_level_one_two20">
+        <item>take care :   is used when saying goodbye to someone. It actually means "Take care of yourself."
+            "\n"take care of :  means to look after someone or something.</item>
+        <item>team : (n) a cooperative unit (especially in sports).
+            "\n"teem : (v) be teeming, be abuzz .</item>
+        <item>than : (conj) used to introduce the second element or clause of an unequal comparison.
+            "\n"then : (adv) at that time.</item>
+        <item>that : (pron) it is a pronoun, and is used as the subject or object of a verb to show which person or thing you are referring to, or to add information about a person or thing just mentioned. It can be used for people and things. It can sometimes be omitted.
+            "\n"which : (pron) it is a pronoun, and is used as the subject or object of a verb to show what thing or things you are referring to, or to add information about the thing just mentioned. It is used for things, not people.
+            "\n"who : (pron) it is a pronoun, and is used as the subject or object of a verb to show which person you are referring to, or to add information about a person just mentioned. It is used for people, not things.</item>
+        <item>there : (adv) at or in that place.
+            "\n"their : (adj) the possessive form of they.
+            "\n"they\'re :  it is contracted form of \"they are\".</item>
+        <item>tide : (n) the periodic rise and fall of the sea level under the gravitational pull of the moon or a trend.
+            "\n"tied : (adj) bound or secured closely.</item>
+        <item>to : (prep) in a direction toward so as to reach.
+            "\n"too : (adv) in addition.
+            "\n"two : (n) it is a number - 2.</item>
+        <item>trainer : (n) one who trains.
+            "\n"trainee : (n) one who is being trained.</item>
+        <item>travel : (v) used in general terms - to go from one place to another.
+            "\n"trip : (n) is often substituted for the word holiday when the travelling distance was short.
+            "\n"voyage : (n) a long journey, as: A journey by sea to a foreign or distant land.
+            "\n"journey : (n) the act of traveling from one place to another. It means the \'piece\' of travel between 2 or more points.
+</item>
+        <item>troop : (n) a group of people or animals (usually soldiers ) or go somewhere in a group.
+            "\n"troupe : (n)  organization of performers and associated personnel (especially theatrical).
+</item></string-array>
+    <string-array name="items_array_expandable_level_one_two_child20">
+        <item>upmost vs utmost</item>
+        <item>us vs we</item>
+        <item>used to vs used to do</item>
+        <item>urn vs earn</item>
+        <item>urban vs urbane</item>
+        </string-array>
+    <string-array name="items_array_expandable_level_one_two21">
+        <item>upmost : (adj) means at the highest or most upward position.
+            "\n"utmost : (adj)  it means of the greatest degree or most extreme.
+</item>
+        <item>us : (pron) it is also a pronoun, but it is used as the object of a verb or a preposition to mean the person communicating and at least one other person.
+            "\n"we : (pron) it is a pronoun used as the subject of a verb,to mean the person communicating and at least one other person.
+</item>
+        <item>used to : (adj) made familiar with, accustomed to.
+            "\n"used to do : (structure) it is used to talk an activity that we did regularly in the past (like a habit), and it is also used for a situation that was true in the past.
+</item>
+        <item>urn : (n) a large vase that usually has a pedestal or feet.
+            "\n"earn : (v) earn on some commercial or business transaction; earn as salary or wages.
+</item>
+        <item>urban : (adj) relating to or concerned with a city or densely populated area.
+            "\n"urbane : (adj) showing a high degree of refinement and the assurance that comes from wide social experience.
+</item>
+        </string-array>
+    <string-array name="items_array_expandable_level_one_two_child21">
+        <item>vain vs vane vs vein</item>
+        <item>vale vs veil</item>
+        <item>vary vs very</item>
+        <item>venal vs venial</item>
+        <item>veracious vs voracious</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two22">
+        <item>vain : (adj) characteristic of false pride; having an exaggerated sense of self-importance.
+            "\n"vane : (n) mechanical device attached to an elevated structure; rotates freely to show the direction of the wind.
+            "\n"vein : (n) a blood vessel Or a narrow channel in rock that carries water or gold.
+</item>
+        <item>vale : (n) a long depression in the surface of the land that usually contains a river.
+            "\n"veil : (n) to obscure, or conceal with or as if with a veil.
+</item>
+        <item>vary : (v) become different in some particular way, without permanently losing one\'s or its former characteristics or essence.
+            "\n"very : (adv) used as an intensifier.</item>
+        <item>venal : (adj) capable of being corrupted.
+            "\n"venial : (adj) warranting only temporal punishment.</item>
+        <item>veracious : (adj) habitually speaking the truth.
+            "\n"voracious : (adj) excessively greedy and grasping.</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child22">
+        <item>wade vs weighed</item>
+        <item>waist vs waste</item>
+        <item>waive vs wave</item>
+        <item>wander vs wonder</item>
+        <item>warn vs worn</item>
+        <item>watch vs see</item>
+        <item>what vs which</item>
+        <item>who vs which vs that</item>
+        <item>who vs whom</item>
+        <item>which vs witch</item></string-array>
+    <string-array name="items_array_expandable_level_one_two23">
+        <item>wade : (v) walk through relatively shallow water.
+            "\n"weighed : (v) determine the weight of.</item>
+        <item>waist : (n) the narrowing of the body between the ribs and hips.
+            "\n"waste : (v) spend thoughtlessly; throw away. </item>
+        <item>waive : (v) do without or cease to hold or adhere to.
+            "\n"wave : (v) one of a series of ridges that moves across the surface of a liquid (especially across a large body of water) or numerous increments of an object or objects.</item>
+        <item>wander : (v) to move about without a definite destination or purpose.
+            "\n"wonder : (v) astonishment, surprise or admiration.</item>
+        <item>warn : (v) to make aware in advance of actual or potential harm, danger, or evil.
+            "\n"worn : (adj) affected by wear or use.</item>
+        <item>watch : (v)  means to deliberately look at something for a period of time, especially something that is changing or moving. it is used with progressive forms.
+            "\n"see : (v) is noticing something or somebody with your eyes, usually with no explicit intention or purpose behind the action. See is not used with progressive forms.
+</item>
+        <item>what : (w.h. q) it is used to ask a question when there are an unknown number or infinite possibilities for an answer.
+            "\n"which : (w.h. q) it is used when you are choosing between two items/ a more limited number of items.
+</item>
+        <item>who : (pron) it is used, when you are referring to the subject of a clause.
+            "\n"which : (pron) it is used as the subject or object of a verb to show what thing or things you are referring to.
+            "\n"that : (pron) it is used as the subject or object of a verb to show which person or thing you are referring to.
+</item>
+        <item>who : (pron) what or which person or persons. it is used, when you are referring to the subject of a clause.
+            "\n"whom : (pron) The objective case of who. it is used, when you are referring to the object of a clause.</item>
+        <item>which : (pron) interrogative pronoun, used both substantively and adjectivally, and in direct and indirect questions, to ask for, or refer to, an individual person or thing among several of a class.
+            "\n"witch : (n)  a female sorcerer or magician.</item>
+      </string-array>
+    <string-array name="items_array_expandable_level_one_two_child23">
+        <item>you\'re vs your</item>
+         <item></item> </string-array>
+         <string-array name="items_array_expandable_level_one_two24">
+        <item>you\'re :  is short for you are.
+            "\n"your :  it shows that something belongs to \"you\" or is related to \"you\".</item>
+
+   <item></item> </string-array>
+
+</resources>

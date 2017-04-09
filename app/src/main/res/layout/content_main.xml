@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_above="@id/footer"
+    tools:showIn="@layout/activity_main" tools:context=".MainActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/apname"
+        android:id="@+id/text1"
+        android:layout_marginTop="59dp"
+        android:paddingTop="8dp"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:background="@color/colorPrimary"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+        android:layout_alignBottom="@+id/toolbar"/>
+
+    <ExpandableListView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp"
+        android:background="@color/colorPrimary"
+        android:layout_marginBottom="45dp"
+        android:layout_alignBottom="@id/text1"
+        android:id="@+id/expandableListView_Parent"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="0.5dp"
+        android:transcriptMode="disabled"
+        android:groupIndicator="@null">
+
+    </ExpandableListView>
+
+    <include layout="@layout/activity_footer" />
+</RelativeLayout>

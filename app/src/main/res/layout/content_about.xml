@@ -1,0 +1,77 @@
+<RelativeLayout    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary"
+    android:layout_above="@id/footer"
+    android:headerDividersEnabled="true"
+    android:showDividers="beginning"
+android:layout_marginTop="2dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<ScrollView
+    android:layout_width="match_parent" android:paddingLeft="16dp"
+  android:paddingRight="16dp"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="45dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        >
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/abouttext">
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/about1"
+                android:textStyle="bold|italic"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="40dp"
+                android:textColor="#000000"/>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/about2"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:orientation="horizontal"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/abouttext"
+            android:layout_weight="0.50"
+            android:gravity="center"
+            >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/fb"
+            android:paddingLeft="20dp"
+            android:onClick="fb"
+            android:contentDescription="fb"
+            />
+        <ImageView
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:src="@drawable/link"
+            android:paddingLeft="20dp"
+            android:contentDescription="linkedin"
+            android:onClick="linkedin"
+            />
+</LinearLayout>
+
+    </RelativeLayout>
+
+</ScrollView>
+    <include layout="@layout/activity_footer" />
+</RelativeLayout>
